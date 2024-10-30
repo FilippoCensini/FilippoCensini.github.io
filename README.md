@@ -17,9 +17,11 @@
 - consulting report for the company [VMOST, Competitive, Porter-s Five Forces analysis, GenAI market research (trends and growth)]
 
 ## Projects
+### Group Consulting Report for FullGen
+[Report](https://1drv.ms/p/s!AuSTd9tFLUS7gRCss1hrHTxzW76C)
 ### Research on Walmart's ESG Performances
 [Publication](https://docs.google.com/document/d/e/2PACX-1vSk_yCDkpjJYDPJ-jc2NA9IyCnGmBzAWEFUWYJdZRkCUD6P7RU1gq0eAulqOn4RXTc7weZdqjkrTkpE/pub)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![PowerBi Presentation](/assets/img/eeg_band_discovery.jpeg)
+[PowerBi Presentation](/assets/img/eeg_band_discovery.jpeg)
