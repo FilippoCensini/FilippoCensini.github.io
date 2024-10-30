@@ -17,8 +17,7 @@
 - consulting report for the company [VMOST, Competitive, Porter-s Five Forces analysis, GenAI market research (trends and growth)]
 
 ## Projects
-### Group Consulting Report for FullGen
-[Report](https://1drv.ms/p/s!AuSTd9tFLUS7gRCss1hrHTxzW76C)
+
 ### Research on Walmart's ESG Performances
 [Publication](https://docs.google.com/document/d/e/2PACX-1vSk_yCDkpjJYDPJ-jc2NA9IyCnGmBzAWEFUWYJdZRkCUD6P7RU1gq0eAulqOn4RXTc7weZdqjkrTkpE/pub)
 
